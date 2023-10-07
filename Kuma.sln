@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kuma", "Kuma\Kuma.csproj", "{7BD856CF-2A5C-499A-9B90-F4935FBEEFAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p4g64.kuma", "p4g64.kuma\p4g64.kuma.csproj", "{7BD856CF-2A5C-499A-9B90-F4935FBEEFAA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BF.File.Emulator.Interfaces", "Submodules\FileEmulationFramework\Emulator\Interfaces\BF.File.Emulator.Interfaces\BF.File.Emulator.Interfaces.csproj", "{435A36C6-BAC7-4F9C-8A14-6A6DC5DF38D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PAK.Stream.Emulator.Interfaces", "Submodules\FileEmulationFramework\Emulator\Interfaces\PAK.Stream.Emulator.Interfaces\PAK.Stream.Emulator.Interfaces.csproj", "{52BC6BE3-579C-45ED-BFB6-7D89414D9979}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileEmulationFramework.Lib", "Submodules\FileEmulationFramework\FileEmulationFramework.Lib\FileEmulationFramework.Lib.csproj", "{7151DF0F-8BD4-4B73-88AB-987432641A32}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{7BD856CF-2A5C-499A-9B90-F4935FBEEFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BD856CF-2A5C-499A-9B90-F4935FBEEFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BD856CF-2A5C-499A-9B90-F4935FBEEFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435A36C6-BAC7-4F9C-8A14-6A6DC5DF38D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435A36C6-BAC7-4F9C-8A14-6A6DC5DF38D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435A36C6-BAC7-4F9C-8A14-6A6DC5DF38D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435A36C6-BAC7-4F9C-8A14-6A6DC5DF38D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52BC6BE3-579C-45ED-BFB6-7D89414D9979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52BC6BE3-579C-45ED-BFB6-7D89414D9979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52BC6BE3-579C-45ED-BFB6-7D89414D9979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52BC6BE3-579C-45ED-BFB6-7D89414D9979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7151DF0F-8BD4-4B73-88AB-987432641A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7151DF0F-8BD4-4B73-88AB-987432641A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7151DF0F-8BD4-4B73-88AB-987432641A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7151DF0F-8BD4-4B73-88AB-987432641A32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

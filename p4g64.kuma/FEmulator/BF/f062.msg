@@ -1,0 +1,10 @@
+[msg RIS_043 [Kuma]]
+[f 0 5 65278][f 2 1]Mmmm!?[n][f 1 1][e]
+[f 0 5 65278][f 2 1]......[n][f 1 1][e]
+[f 0 5 65278][f 2 1]I can smell it![n][f 1 1][e]
+[f 0 5 65278][f 2 1]I smell something! My nose is sniffing[n]out some kind of clue![n][f 1 1][e]
+
+[msg RIS_047_2 [Kuma]]
+[f 0 5 65278][f 2 1]Hrm!? If she turned off the lights, then[n]that means...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]*gulp*[n][f 1 1][e]
+[f 0 5 65278][f 2 1]S-Sensei! Am I about to climb the stairway[n]to adulthood!?[n][f 1 1][e]

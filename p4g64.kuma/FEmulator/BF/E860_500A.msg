@@ -1,0 +1,12 @@
+[msg MSG_EPISODE_TALK_227_000 [Nanako]]
+[f 0 5 65278][f 2 1][f 4 6 10 2 65535 1]Christmas was amazing![n][f 1 1][e]
+[f 0 5 65278][f 2 1]Everyone was there! You, Dad, the older[n]girls, and even Kuma![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 7 65535 1]I wish we could do it again.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 2 65535 1]I wonder how many more times I have to sleep[n]until New Year's. I can't wait![n][f 1 1][e]
+
+[msg MSG_EPISODE_TALK_240_000 [Nanako]]
+[f 0 5 65278][f 2 1][f 4 6 10 1 65535 1]Um, we had a snowball fight after school on[n]the playground.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Then Kuma walked by, so we all played[n]together.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 10 2 65535 1]Kuma got creamed! He was white all over![n][f 1 1][e]
+[f 0 5 65278][f 2 1]He said something about "the alternate 2P[n]polar bear Kuma." I didn't get it![n]But we all had fun.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]You should come next time, big bro![n][f 1 1][e]

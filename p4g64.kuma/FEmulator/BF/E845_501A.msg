@@ -1,0 +1,40 @@
+[msg CHI_NIGHT11_TALK01_MES_S [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 411][f 4 9 3 3 5 0 5][f 4 6 3 4 65535 1]Ugh, the Culture Festival... my skin still[n]crawls thinking about it.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 7 65535 1]A swimsuit competition? Really!? Sheesh,[n]that Kuma...[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 8 3 15]And on top of that, what was the idea, lining[n]us up next to an active idol?[n][f 1 1][e]
+
+[msg CHI_NIGHT12_TALK02_MES_S [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 382][f 4 9 3 3 5 0 5][f 4 6 3 2 65535 1]Oh, you know, it's almost Christmas.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]I went to Junes the other day and Yosuke[n]was working like a madman to sell cakes.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 8 3 15]He was yelling at Kuma for eating all the[n]chicken off the tasting table...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]You got any plans for Christmas this year,[n][f 4 2]-kun?[n][f 1 1][e]
+
+[msg CHI_NIGHT01_TALK02_MES_S [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 382][f 4 9 3 3 5 0 5][f 4 6 3 1 65535 1]Kuma's living at your place now, right?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 65535 1][f 4 8 3 10]Haha, well, it's true it gets lonely fast,[n]being home alone.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]Isn't it hard with just two guys in the[n]house? I could come over and cook...[n][f 1 1][e]
+
+[sel CHI_NIGHT01_TALK02_MES_S_2 top]
+[f 0 5 65278][f 2 1]"That would be helpful."[e]
+[f 0 5 65278][f 2 1]"Um, that's okay."[e]
+[f 0 5 65278][f 2 1]"Sure, when Kuma's not around."[e]
+
+[msg CHI_NIGHT01_TALK02_MES_C [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 411][f 4 6 3 4 65535 1][f 4 8 3 15]Sheesh, what would the point in that be?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 9 3 3 5 0 5][f 4 6 3 2 65535 1]Kuma's always eating snacks, right? I bet[n]his diet is anything but balanced.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 1 65535 1][f 4 8 3 2]Huh... does Kuma even need nutrition...?[n][f 1 1][e]
+
+[msg CHI_NIGHT01_TALK02_MES_L [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 406][f 4 6 3 6 65535 1][f 4 8 3 9]W-Wouldn't that be like...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]You know... like, newlyweds?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 9 3 5 5 0 5][f 4 6 3 8 65535 1][f 4 8 3 16]No! Ugh! Sorry, forget that![n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 387][f 4 6 3 6 65535 1]But... maybe I should sneak over when Kuma's[n]not around, hehe.[n][f 1 1][e]
+
+[msg CHI_NIGHT01_TALK03_MES_S [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 382][f 4 9 3 3 5 0 5][f 4 6 3 1 65535 1]Oh yeah, Kuma's gone back to Yosuke's[n]place, right?[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 6 3 2 65535 1]Youske's been complaining about what a hassle[n]he is, but I bet he's glad inside to have[n]Kuma back.[n][f 1 1][e]
+[f 0 5 65278][f 2 1][f 4 9 3 3 5 0 5][f 4 8 3 10]Whatever those two might say, they make a[n]pretty good pair.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]So, be honest with me! What was it like,[n]living with Kuma?[n][f 1 1][e]
+
+[msg CHI_NIGHT01_TALK03_MES_A [Chie]]
+[f 0 5 65278][f 2 1][f 3 1 1 0 0 414][f 4 6 3 2 65535 1][f 4 8 3 10]Ahaha, Kuma sure can liven up a guy's day.[n]Every family should have one... Hmm, nah,[n]that might be too much excitement.[n][f 1 1][e]

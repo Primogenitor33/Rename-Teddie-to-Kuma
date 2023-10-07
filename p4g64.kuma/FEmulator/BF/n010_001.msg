@@ -1,0 +1,15 @@
+[msg MSG_NPC_07_04]
+[f 0 5 65278][f 2 1]> If you put together the information[n]the paparazzi gave you...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> It seems that Rise was acting as a[n]"manufactured personality."[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> And she was worrying about her[n]"real self" and her "idol self."[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> She was surely worrying about her[n][f 0 1 2]true self[f 0 1 0].[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> You seemed to have gained some[n]insight regarding Rise...[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> You should report to Kuma.[n][f 1 1][e]
+
+[msg MSG_NPC_07_HINT_GET [Photographer]]
+[f 0 5 65278][f 2 1]Hey, thanks for the information.[n]You saved me.[n][f 1 1][e]
+[f 0 5 65278][f 2 1]> You seemed to have gained some[n]insight regarding Rise...[n][f 1 4][e]
+[f 0 5 65278][f 2 1]> You should report to Kuma.[n][f 1 4][e]
+
+[msg MSG_NPC_07_01_0_0_2]
+[f 0 5 65278][f 2 1]> You should report to Kuma.[n][f 1 1][e]

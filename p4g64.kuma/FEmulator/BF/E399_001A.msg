@@ -1,0 +1,6 @@
+[sel SEL_007 top]
+[f 0 5 65278][f 2 1]Yosuke Hanamura[e]
+[f 0 5 65278][f 2 1]Chie Satonaka[e]
+[f 0 5 65278][f 2 1]Yukiko Amagi[e]
+[f 0 5 65278][f 2 1]Kuma[e]
+[f 0 5 65278][f 2 1]Someone else[e]

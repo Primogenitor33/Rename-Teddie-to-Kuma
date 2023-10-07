@@ -1,0 +1,19 @@
+[replacement Kuma Menu Name]
+search = "Teddie"
+replacement = "Kuma"
+
+[replacement Kuma Episode Name]
+search = "Teddie's Inner Space"
+replacement = "Kuma's Inner Space"
+
+[replacement Kuma Subtitles 1]
+search = "Ted Fi-ya!"
+replacement = "Kumaya!"
+
+[replacement Kuma Subtitles 2]
+search = "- Ted Fi-ya!"
+replacement = "- Kumaya!"
+
+[replacement Kuma Subtitles 3]
+search = "Ted, you punk"
+replacement = "Kuma, you punk"
